@@ -2,6 +2,7 @@
 layout: page
 title: My bio
 subtitle: A little bit about me
+bigimg: '/img/neural.jpeg'
 ---
 
 My name is Rich Tregaro. I am currently a student of data science at Lambda School.  
