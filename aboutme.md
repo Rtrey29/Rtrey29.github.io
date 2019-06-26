@@ -8,6 +8,10 @@ bigimg: '/img/neural.jpeg'
 My name is Rich Tregaro. I am currently a student of data science at Lambda School.  
 
 - Loving my Mini Dachshund Harley-Quinn
+![harley](img/harley.jpeg)
+
+
+
 - I'm extremely loyal to my family
 
 What else is there?
