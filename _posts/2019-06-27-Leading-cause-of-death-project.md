@@ -23,7 +23,7 @@ Increases in life expectancy are generally attributed to advances in surgical in
 
 So let's go ahead and take a look at some graphs:
 
-![graph1](/Project1/img/Graph_1.png)
+![graph1](https://github.com/Rtrey29/Project1/blob/master/img/Graph_1.png?raw=true)
 
 
 
@@ -42,7 +42,7 @@ In fact, 6 of the top 10 leading causes of death are from preventable chronic il
 So now let's take a look at the same data by state
 
 
-![graph2](/Project1/img/graph_2.png)
+![graph2](https://github.com/Rtrey29/Project1/blob/master/img/graph_2.png?raw=true)
 
 This representation shows the breakdown of causes of death in order by the total amount of deaths by state.  After taking into account the population differences of the states, you can see that the leading causes of death in all 50 states are pretty equally proportioned.  It gives you a basic idea of the nation wide distribution of the leading causes of death.  But unfortunately the smaller population states are not really well represented in this graph.
 
@@ -51,7 +51,7 @@ Here is the same data as above, but this time standardized across all of the sta
 With this visual it is much easier to see the true breakdown of the leading causes of death by state.  
 
 
-![graph3](Project/img/graph_3.png)
+![graph3](https://github.com/Rtrey29/Project1/blob/master/img/graph_3.png?raw=true)
 
 
 As you can see, heart disease and cancer are the most common causes of death across all 50 states.
