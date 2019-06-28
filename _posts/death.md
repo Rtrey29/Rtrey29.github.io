@@ -80,3 +80,6 @@ What are these lifestyle changes? Well, they definitely aren't a secret, and we'
 * Avoid direct exposure to UV rays for extended periods of time
 
 Unfortunately medicine hasn't progressed to a point where these diseases are completely treatable. So if you like to hedge your bets with the length of your life, it's probably a good idea to stop reading this and go take a walk.
+
+[colab:](https://colab.research.google.com/drive/1Ti8V3c2Wt3zBs3B2OWTDOAm2j1R3kc9m)
+[data source:](https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013)
