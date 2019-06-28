@@ -1,8 +1,8 @@
-##What is the leading cause of death in the US? And can anything be done to prevent it?
+## What is the leading cause of death in the US? And can anything be done to prevent it?
 
 
 
-###**Death.**
+### **Death.**
 
 It is as uncomfortable to talk about, as it is to think about happening to us, or the ones we love.  It brings us sad memories of those who have left us, and anxiety over those we are most afraid of losing.  
 
@@ -20,7 +20,7 @@ Increases in life expectancy are generally attributed to advances in surgical in
 
 So let's go ahead and take a look at some graphs:
 
-![graph1](project1/img/Graph_1.png)
+![graph1](/Project1/img/Graph_1.png)
 
 
 
@@ -39,7 +39,7 @@ In fact, 6 of the top 10 leading causes of death are from preventable chronic il
 So now let's take a look at the same data by state
 
 
-![graph2](project1/img/graph_2.png)
+![graph2](/project1/img/graph_2.png)
 
 This representation shows the breakdown of causes of death in order by the total amount of deaths by state.  After taking into account the population differences of the states, you can see that the leading causes of death in all 50 states are pretty equally proportioned.  It gives you a basic idea of the nation wide distribution of the leading causes of death.  But unfortunately the smaller population states are not really well represented in this graph.
 
